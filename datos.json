@@ -1,0 +1,92 @@
+[
+    {
+      "nombre": "Nosotros En La Luna",
+      "sinopsis": "Una noche en Paris. Dos caminos entrelazados. Cuando Rhys y Ginger se conocen en las calles de la Ciudad de la Luz, no imaginan que sus vidas se uniran para siempre, a pesar de la distancia y de que no puedan ser mas diferentes. Ella vive en Londres y a veces se siente tan perdida que se ha olvidado hasta de sus propios suenos. El es incapaz de quedarse quieto en ningun lugar y cree saber quien es. Y cada noche su amistad crece entre emails llenos de confidencias, dudas e inquietudes. Pero ¿que ocurre cuando el paso del tiempo pone a prueba su relacion? ¿Es posible colgarse de la luna junto a otra persona sin poner en riesgo el corazon? Una historia sobre el amor, el destino y la busqueda de uno mismo. Porque a veces, solo hace falta mirar la luna para sentirte cerca de otra persona. <<Estar enamorado es como estar permanentemente colgado de la luna. Boca abajo. Con una sonrisa inmensa. Sin miedo.>>",
+      "imagen": "imagenes/nosotros en la luna.jpeg",
+      "genero": "Novela Romántica"
+    },
+    {
+      "nombre": "Violet y Finch",
+      "sinopsis": "Violet está rota. Finch está roto.¿Pueden dos mitades rotas reconstruirse?Esta es la historia de una chica que aprende a vivir de un chico que pretende morir; de dos jóvenes que se encuentran y dejan de contar los días para empezar a vivirlos. Si te emocionaste con Bajo la misma estrella, la historia de amor de Violet y Finch te llegará al corazón. Violet está rota. Finch está roto. ¿Pueden dos mitades rotas reconstruirse? Esta es la historia de una chica que aprende a vivirde un chico que pretende morir; de dos jóvenesque se encuentran y dejan de contar los días para empezar a vivirlos <<Una historia que lo remueve todo, que te toca de una manera muy profunda... y se queda en tu corazón para siempre>>",
+      "imagen": "imagenes/violet y finch.jpeg",
+      "genero": "Romance Juvenil"
+    },
+    {
+      "nombre": "Somos Polvo De Estrellas",
+      "sinopsis": "¿Alguna vez has deseado retroceder en el tiempo? Ojalá fuese tan sencillo como cerrar los ojos con fuerza, desearlo con ganas y despertar tiempo atrás, cuando te creías seguro de todas las cosas malas, pero sabemos que el tiempo es inalterable. No podemos evitar que ocurran desgracias, ni impedir que estas nos transformen en versiones de nosotros mismos a quienes no reconocemos. Olivia, a sus dieciséis años, acaba de descubrir que el mundo es un lugar en el que no estás a salvo, que el Destino te puede arrebatar la felicidad en un instante y que querer, incluso a uno mismo, implica tomar decisiones para las que no siempre estamos preparados. Somos polvo de estrellas habla sobre la pérdida, la amistad, la familia y la lucha por los sueños apostando por la obligación de volver a sonreír como única forma de sobrevivir al dolor.",
+      "imagen": "imagenes/somos polvo de estrellas.jpeg",
+      "genero": "Friends to Lovers"
+    },
+    {
+      "nombre": "Marfil",
+      "sinopsis": "Marfil tiene 20 años y vive en Nueva York, pero no todo es tan idílico como parece: hace unos días fue secuestrada mientras paseaba por Central Park. Su padre tiene muy claro que la razón del secuestro ha sido para mandarle un mensaje: podemos llegar a ella. A pesar de ser liberada, todo ha cambiado para Marfil: su vida no es la misma, y ella tampoco. Sobre todo porque ahora nunca está sola: siempre la acompaña Sebastian Moore, su guardaespaldas. Sebastian demostrará ser el encargado perfecto para protegerla, sobre todo cuando comienzan a llegar las amenazas de muerte, aunque nunca hubiese pensado que la tarea más complicada no sería esa, sino mantener a Marfil Cortés alejada de él. ¿Está Marfil preparada para descubrir la verdad de su pasado? ¿Lo pondrá todo en riesgo la atracción que ha surgido entre ambos?",
+      "imagen": "imagenes/marfil.jpeg",
+      "genero": "Romance"
+    },
+    {
+      "nombre": "Ebano",
+      "sinopsis": "Marfil ya no es la misma. Todo lo que creía que era verdad ha demostrado ser una mentira más. También Sebastian. Sus enemigos intentarán doblegarla, hacerla suya, la amenazarán con acabar con todo aquello que Marfil ama... Ahora que está en peligro es cuando más necesita que alguien le diga al oído que todo irá bien. Aunque sea otra mentira. Con Sebastian ocupando cada parte de su mente, pero dolida por su traición, Marfil se obligará a sí misma a no sentir nada por él. Pero, cuando los secretos empiezan a desvelarse, ni siquiera su férrea voluntad conseguirá que lo odie tanto como ella desea. ¿Podrá Marfil perdonar tantas mentiras? ¿Será capaz de dejar a un lado el pasado y escuchar su corazón?",
+      "imagen": "imagenes/ebano.jpeg",
+      "genero": "Romance"
+    },
+    {
+      "nombre": "A través De Mi Ventana",
+      "sinopsis": "Raquel lleva toda la vida loca por Ares, su atractivo y misterioso vecino. Lo observa sin ser vista desde su ventana y es que, muy a su pesar, no han intercambiado ni una triste palabra. Lo que Raquel no sabe es que eso está a punto de cambiar... Ares comenzará a cruzarse en su camino hasta en los lugares más inesperados y descubrirá que, en realidad, Raquel no es la niña inocente que creía. Ahora, Raquel tiene muy claro su objetivo: conseguir que Ares se enamore de ella. Por supuesto, no está dispuesta a perderlo todo por el camino, y mucho menos a sí misma...",
+      "imagen": "imagenes/a traves de mi ventana.jpeg",
+      "genero": "Romance Juvenil"
+    },
+    {
+      "nombre": "Heist",
+      "sinopsis": "¿Cazar o ser cazado? El pueblo de Wilson es tranquilo, regido por unas costumbres y creencias religiosas muy estrictas, donde Leigh ha crecido, siguiendo cada regla y pauta como se le ha indicado. Un pueblo donde no se recibe con mucha gracia a los recién llegados, así que cuando los Steins se mudan a su lado, Leigh no puede evitar sentir curiosidad. Los Steins son adinerados, misteriosos y muy elegantes. Lucen como el retrato perfecto de una familia, pero ¿lo son? ¿Qué se esconde detrás de tanta perfección? Y cuando la muerte comienza a merodear el pueblo, nadie puede evitar preguntarse si tiene algo que ver con los nuevos miembros de la comunidad. Leigh es la única que puede indagar para descubrir la verdad, la única que puede acercarse al hijo mayor de la familia, el infame, arrogante y frío Heist.",
+      "imagen": "imagenes/heist.jpeg",
+      "genero": "Romance y "
+    },
+    {
+      "nombre": "Sigue Mi Voz",
+      "sinopsis": "Hay amores que te dan la mano y te acompañan en los momentos más difíciles. Todos conocemos el amor pasional que te nubla la razón, el amor a primera vista que te vacía el estómago y el amor platónico que te llena el corazón de fantasía y admiración. Pero ¿es posible enamorarse de alguien sin tan siquiera conocerlo? ¿Puede una persona enamorarse de otra sin haberla visto? ¿Es posible desarrollar sentimientos por una persona que solo has escuchado? Klara encontrará la respuesta a esas preguntas, escuchando con dedicación todos los días su programa favorito de radio Sigue Mi Voz.",
+      "imagen": "imagenes/sigue mi voz.jpeg",
+      "genero": "Juvenil"
+    },
+    {
+      "nombre": "Boulevard",
+      "sinopsis": "Luke y Hasley no eran el prototipo de una pareja perfecta. Sin embargo, ambos le pusieron definición a lo que ellos crearon. Una historia de dos adolescentes que crean su propio boulevard ante la llovizna que hay en sus corazones, donde se entremezcla, por un lado, un azul cálido, y por el otro, un azul eléctrico, tiñéndose este por completo de un gris nostálgico. ¿Quién dijo que después de la tormenta sale el sol cuando puede haber un rayo?",
+      "imagen": "imagenes/boulevard.jpeg",
+      "genero": "Un cliché no tan cliché"
+    },
+    {
+      "nombre": "Silence",
+      "sinopsis": "¿Y si la leyenda del hilo rojo no solo te lleva a una persona? Quizás el hilo rojo te conecta a todas aquellas personas con las que estás destinada, con tus padres, hermanos, amigos, amantes e incluso tu mascota. Con todas aquellas personas que serán tu alegría, tristeza, risas y llanto. Aquellas que llenarán de color tus días grises y a las que tú harás sentirse vivas. Aquellas que sin las que tu vida ssolo silencio...",
+      "imagen": "imagenes/silence.jpeg",
+      "genero": "Romance"
+    },  
+    {
+      "nombre": "Antes De Diciembre",
+      "sinopsis": "Para Jenna Brown, su primer año en la Universidad suponía alejarse de su familia y sus amigos y enfrentarse al mundo por primera vez en su vida. Su novio le había dejado claras sus intenciones: a partir de ese momento, tenían una relación a distancia y abierta. Ambos podían hacer lo que quisieran porque sabían que se querían el uno al otro. Así que no pasaba nada si no dejaba de acercarse al mejor amigo del novio de su compañera de habitación, ¿no? De todos modos, ¿qué importaba si estaba con él en ausencia de su novio? Todo volvería a la normalidad en diciembre. ¿Cambiaría algo? Tenía hasta entonces para descubrirlo.",
+      "imagen": "imagenes/antes de diciembre.jpeg",
+      "genero": "Friends to lovers"
+    },
+    {
+      "nombre": "Ciudades De Humo",
+      "sinopsis": "Alice nunca ha salido al mundo. Su cena es a las nueve en punto, su sueño dura exactamente ocho horas, jamás tiene una sola arruga en la ropa, parpadea 86400 veces al día, respira 30000 veces al día, solo habla cuando le preguntan, jamás ha levantado la voz y, lo más importante, jamás se ha preguntado qué pasaría si todo cambiara. Pero, ¿y si eso ocurriera? En un mundo donde la libertad está controlada, ¿hasta dónde serías capaz de llegar para recuperarla? ¿Hasta dónde serías capaz de llegar para sobrevivir? ¡Lucha por tu libertad!",
+      "imagen": "imagenes/ciudades de humo.jpeg",
+      "genero": "Friends to Lovers"
+    },
+    {
+      "nombre": "La Ultima Nota",
+      "sinopsis": "Apenas sé nada de él. Sé que toca la guitarra. Sé que está en una de las bandas más famosas de la ciudad. Sé que no sonríe mucho. Sé que lo llaman Jed. Y sé que nunca me he sentido como me siento cuando clava sus ojos en mí. Así que, apenas sé nada de él... pero sí se algo de mí misma. Sé que hasta hace poco odiaba los tatuajes. Sé que hasta hace poco odiaba las bandas. Sé que tengo que intentar evitarlo. Sé que no quiero caer. Y también sé que lo haré. Pero, definitivamente, sé que estoy perdida desde el momento en que me preguntó cómo me llamaba .",
+      "imagen": "imagenes/la ultima nota.jpeg",
+      "genero": "Romance"
+    },      
+    {
+      "nombre": "Heartstopper Vol !",
+      "sinopsis": "El amor es sencillo. Enamorarse es complicado. Dos chicos se conocen. Se hacen amigos. Se enamoran. ¿Por quénos empeñamos en hacer complicadas las emociones más sencillas? Esta historia de amor entre dos chicos, uno de ellos declaradamente homosexual y el otro en vías de autodescubrimiento, nos recordaráque hay primeros amores frágiles como el cristal y memorables como el diamante. Con los titubeos propios de cualquier amor adolescente,Heartstopper responde a la manera de sentir de los jóvenes reales, con una visión abierta, natural y sensible sobre el amor y la identidad sexual, sin perder nunca la delicadeza y la emoción.",
+      "imagen": "imagenes/heartstopper.jpeg",
+      "genero": "Romance Adolecente"
+    },
+    {
+      "nombre": "Un Beso Bajp La Lluvia",
+      "sinopsis": "Bajo la última lluvia pronosticada, en un romántico día de San Valentín, las cosas no resultaron bien para Floyd McFly. De pie, en medio de un parque, mojada y con el corazón hecho añicos, ella era la viva imagen de alguien a quien acababan de decirle: «Esto no va a funcionar». Sin embargo, entre todo ese dramatismo de película, un desconocido de abrigo marrón le entrega su paraguas; así trae de regreso a la chica optimista. ¿Quién ha sido? Floyd tiene dos posibles candidatos: Joseff Martin, un chico con complejo de superhéroe que tiende a disfrazarse de Batman, hablar mucho y meterse en problemas, o Felix Frederick, con quien compartirá techo. Lluvia y sol. Chocolate y menta. Multicolor y monocromo. Positivo y negativo. Así son Floyd y Felix; dos opuestos que alguna vez fueron inseparables. Pero de su inocente amistad, solo quedan recuerdos. Felix guarda un secreto y Floyd pronto descubre cuál es.",
+      "imagen": "imagenes/un beso bajo la lluvia.jpeg",
+      "genero": " Romance Juvenil"
+    }    
+]
